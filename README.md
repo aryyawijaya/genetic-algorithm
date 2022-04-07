@@ -4,7 +4,7 @@
 Find the values of x and y that produce the minimum value of the function h(x, y).
 
 ## Function
-![function](https://latex.codecogs.com/png.image?\inline&space;\huge&space;\dpi{150}h(x,&space;y)&space;=&space;\frac{(cos(x)&space;&plus;&space;sin(y))^{2}}{x^{2}&space;&plus;&space;y^{2}})
+![function](https://latex.codecogs.com/png.image?\inline&space;\huge&space;\dpi{150}\bg{black}h(x,&space;y)&space;=&space;\frac{(cos(x)&space;&plus;&space;sin(y))^{2}}{x^{2}&space;&plus;&space;y^{2}})
 
 ## Optimal Solution
 x = -3.142717497556207
