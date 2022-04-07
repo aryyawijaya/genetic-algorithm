@@ -4,9 +4,7 @@
 Find the values of x and y that produce the minimum value of the function h(x, y).
 
 ## Function
-<img src="https://bit.ly/3ud36pM" align="center" border="0" alt="h(x, y) =  \frac{ (cos(x) + sin(y))^{2} }{ x^{2} +  y^{2} } " width="229" height="50" />
-
-<!-- ![function](https://latex.codecogs.com/svg.image?\bg{white}h(x,&space;y)&space;=&space;\frac{(cos(x)&space;&plus;&space;sin(y))^{2}}{x^{2}&space;&plus;&space;y^{2}}) -->
+![function](https://latex.codecogs.com/png.image?\inline&space;\dpi{110}\bg{black}h(x,&space;y)&space;=&space;\frac{(cos(x)&space;&plus;&space;sin(y))^{2}}{x^{2}&space;&plus;&space;y^{2}})
 
 ## Optimal Solution
 x = -3.142717497556207
